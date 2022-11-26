@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<class name="Insect">
+  <order name="Coleoptera">
+      <family name="Brachyceridae">
+          <genus name="Grypus">
+              <species>Grypus brunnirostris</species>
+              <species>Grypus equiseti</species>
+          </genus>
+          <genus name="Lepidonotaris">
+              <species>Lepidonotaris petax</species>
+          </genus>
+          <genus name="Lissorhoptrus">
+              <species>Lissorhoptrus buchanani</species>
+              <species>Lissorhoptrus chapini</species>
+              <species>Lissorhoptrus lacustris</species>
+              <species>Lissorhoptrus longipennis</species>
+              <species>Lissorhoptrus oryzophilus</species>
+              <species>Lissorhoptrus simplex</species>
+          </genus>
+      </family>
+      <family name="Curculionidae">
+          <genus name="Austroplatypus">
+              <species>Austroplatypus incompertus</species>
+          </genus>
+          <genus name="Bagous">
+              <species>Bagous alismatis</species>
+              <species>Bagous argillaceus</species>
+              <species>Bagous binodulus</species>
+              <species>Bagous brevis</species>
+              <species>Bagous lutulosus</species>
+              <species>Bagous nodulosus</species>
+              <species>Bagous longitarsis</species>
+              <species>Bagous rotundicollis</species>
+              <species>Bagous rufimanus</species>
+          </genus>
+      </family>
+  </order>
+  <order name="Lepidoptera">
+      <family name="Pieridae">
+          <genus name="Dismorphia">
+              <species>Dismorphia altis</species>
+              <species>Dismorphia amphione</species>
+              <species>Dismorphia arcadia</species>
+              <species>Dismorphia astyocha</species>
+              <species>Dismorphia boliviana</species>
+              <species>Dismorphia crisia</species>
+              <species>Dismorphia cubana</species>
+              <species>Dismorphia eunoe</species>
+              <species>Dismorphia hyposticta</species>
+              <species>Dismorphia laja</species>
+              <species>Dismorphia lelex</species>
+              <species>Dismorphia lewyi</species>
+              <species>Dismorphia lua</species>
+              <species>Dismorphia zathoe</species>
+              <species>Dismorphia teresa</species>
+              <species>Dismorphia pseudolewyi</species>
+          </genus>
+      </family>
+  </order>
+</class>
