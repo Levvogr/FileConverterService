@@ -9,18 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a4dd41-89ee-4351-95df-f9c9d1e949bc" name="Changes" comment="added examples">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsf.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsf.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/JsonToXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/JsonToXmlInsect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/json/ReaderJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/json/ReaderJsonInsect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/xml/WriterXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/xml/WriterXmlInsect.java" afterDir="false" />
+    <list default="true" id="a7a4dd41-89ee-4351-95df-f9c9d1e949bc" name="Changes" comment="final">
+      <change beforePath="$PROJECT_DIR$/jsf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Insect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Insect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/settings/FileInsectSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/settings/FileInsectSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/XmlToJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/XmlToJsonInsect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/json/WriterJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/json/WriterJsonInsect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/xml/ReaderXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/xml/ReaderXmlInsect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +156,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669443256173</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="refactor main and added comments">
+      <created>1669660325351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660325351</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final">
+      <created>1669660679853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669660679853</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,7 +184,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="xmltojson" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -220,6 +226,8 @@
     <MESSAGE value="added convertJsonToXml" />
     <MESSAGE value="added input" />
     <MESSAGE value="added examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="added examples" />
+    <MESSAGE value="refactor main and added comments" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>

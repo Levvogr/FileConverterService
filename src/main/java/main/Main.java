@@ -1,10 +1,5 @@
 package main;
 
-import org.json.simple.parser.ParseException;
-
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.TransformerException;
-import java.io.IOException;
 import java.util.Scanner;
 
 public class Main {
@@ -13,10 +8,11 @@ public class Main {
      * xml файл представляет собой иерархическую структура
      * из биологии начиная с класса заканчивая видом, но
      * только для класса насекомых. То есть по порядку класс,
-     * отряд, семейство, род, вид.
+     * отряд, семейство, род, вид. Смотри пример ins.xml
      *
      * json файл представляет набор названий видов и куда они
      * входят, то есть их класс, отряд, семейство, род, вид.
+     * Смотри пример ins.json
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
