@@ -2,12 +2,26 @@ package model;
 
 import java.util.ArrayList;
 
+
+/**
+ * Класс описывает данные, которые считываются и записываются в файлы
+ */
 public class Insect {
     private String className;
     private String orderName;
     private String familyName;
     private String genusName;
     private String species;
+    /**
+     * insectFieldsNames нужен для удобного использования методов
+     * getValueInField и setField, которые нужны для удобного взаимодействия
+     * со структурой дерево(для xml файлов). Конкретно при реализации обхода в глубину
+     * то насколько удалён текущий узел от корневого будет показателем
+     * какому полю этот узел принадлежит. Так если удалённость
+     * от корневого узла = 0, то поле className, если = 1, то orderName,
+     * если = 2, то familyName, если = 3, то genusName, если = 4, то species
+     */
+
     private ArrayList<String> insectFieldsNames=new ArrayList<String>();
 
     public Insect(String className, String orderName, String familyName, String genusName, String species) {
@@ -18,6 +32,7 @@ public class Insect {
         this.species = species;
         initInsectFieldsNames();
     }
+
     public Insect() {
         initInsectFieldsNames();
     }
@@ -73,6 +88,12 @@ public class Insect {
         insectFieldsNames.add("genusName");
         insectFieldsNames.add("species");
     }
+
+    /**
+     *
+     * @param field название поля класса Insect
+     * @return значение поля field, если field задано неверно вернёт null
+     */
     public String getValueInField(String field){
         switch (field){
             case "className":
@@ -89,6 +110,13 @@ public class Insect {
                 return null;
         }
     }
+
+    /**
+     *
+     * @param field название поля класса Insect
+     * @param value значение, которое будет присвоено полю field,
+     *             если field задано неверно ничего не произойдёт
+     */
     public void setField(String field, String value){
         switch (field){
             case "className":

@@ -10,6 +10,12 @@ import javax.xml.transform.TransformerException;
 import java.io.IOException;
 import java.util.ArrayList;
 public class JsonToXmlInsect {
+    /**
+     * Метод создан для удобства, то есть в методе main вместо написания одной
+     * строчки достаточно просто вызвать этот метод
+     * @param fileNameJson файл откуда будут считываться данные
+     * @param fileNameXml файл куда будут записаны данные
+     */
     public static void convertJsonToXml(String fileNameJson, String fileNameXml)
             throws IOException, ParseException, ParserConfigurationException, TransformerException {
         ReaderJsonInsect r=new ReaderJsonInsect();

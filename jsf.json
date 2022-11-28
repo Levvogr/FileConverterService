@@ -1,1 +1,212 @@
-{"Lepidonotaris petax":{"genus":"Lepidonotaris","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Dismorphia teresa":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia arcadia":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia eunoe":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Bagous nodulosus":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Dismorphia lewyi":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Lissorhoptrus lacustris":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Dismorphia crisia":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia lua":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia astyocha":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Lissorhoptrus buchanani":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Dismorphia lelex":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Lissorhoptrus longipennis":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Bagous binodulus":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Grypus equiseti":{"genus":"Grypus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Dismorphia altis":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia amphione":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Lissorhoptrus chapini":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Lissorhoptrus simplex":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Bagous argillaceus":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Bagous brevis":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Dismorphia pseudolewyi":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Bagous rotundicollis":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Bagous lutulosus":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Lissorhoptrus oryzophilus":{"genus":"Lissorhoptrus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Grypus brunnirostris":{"genus":"Grypus","family":"Brachyceridae","class":"Insect","order":"Coleoptera"},"Bagous rufimanus":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Dismorphia cubana":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia laja":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Bagous alismatis":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Bagous longitarsis":{"genus":"Bagous","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Dismorphia boliviana":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Dismorphia zathoe":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"},"Austroplatypus incompertus":{"genus":"Austroplatypus","family":"Curculionidae","class":"Insect","order":"Coleoptera"},"Dismorphia hyposticta":{"genus":"Dismorphia","family":"Pieridae","class":"Insect","order":"Lepidoptera"}}
+  {
+    "Lepidonotaris petax": {
+      "genus": "Lepidonotaris",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia teresa": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia arcadia": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia eunoe": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Bagous nodulosus": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia lewyi": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Lissorhoptrus lacustris": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia crisia": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia lua": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia astyocha": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Lissorhoptrus buchanani": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia lelex": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Lissorhoptrus longipennis": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous binodulus": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Grypus equiseti": {
+      "genus": "Grypus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia altis": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia amphione": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Lissorhoptrus chapini": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Lissorhoptrus simplex": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous argillaceus": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous brevis": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia pseudolewyi": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Bagous rotundicollis": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous lutulosus": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Lissorhoptrus oryzophilus": {
+      "genus": "Lissorhoptrus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Grypus brunnirostris": {
+      "genus": "Grypus",
+      "family": "Brachyceridae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous rufimanus": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia cubana": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia laja": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Bagous alismatis": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Bagous longitarsis": {
+      "genus": "Bagous",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia boliviana": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Dismorphia zathoe": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    },
+    "Austroplatypus incompertus": {
+      "genus": "Austroplatypus",
+      "family": "Curculionidae",
+      "class": "Insect",
+      "order": "Coleoptera"
+    },
+    "Dismorphia hyposticta": {
+      "genus": "Dismorphia",
+      "family": "Pieridae",
+      "class": "Insect",
+      "order": "Lepidoptera"
+    }
+  }

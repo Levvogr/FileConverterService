@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FileConverterService:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7a4dd41-89ee-4351-95df-f9c9d1e949bc" name="Changes" comment="added convertJsonToXml" />
+    <list default="true" id="a7a4dd41-89ee-4351-95df-f9c9d1e949bc" name="Changes" comment="added examples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsf.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/JsonToXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/JsonToXmlInsect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/json/ReaderJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/json/ReaderJsonInsect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/json_to_xml/xml/WriterXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/json_to_xml/xml/WriterXmlInsect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Insect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Insect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/settings/FileInsectSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/settings/FileInsectSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/XmlToJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/XmlToJsonInsect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/json/WriterJsonInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/json/WriterJsonInsect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xml_to_json/xml/ReaderXmlInsect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xml_to_json/xml/ReaderXmlInsect.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,22 +56,33 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2I4XgHaNZx3jeHZE3FUzFAX6fzE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ПК/IdeaProjects/FileConverterService/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/ВятГУ/5 семестр/Учебная практика/Учебная практика задание 2/FileConverterService&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ПК\IdeaProjects\FileConverterService" />
       <recent name="C:\Users\ПК\IdeaProjects\FileConverterService\src\main\java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -122,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669442934205</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added input">
+      <created>1669443064984</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669443064984</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added examples">
+      <created>1669443256173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669443256173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,7 +172,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="xmltojson" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -164,6 +218,8 @@
     <MESSAGE value="added WriterXmlInsect" />
     <MESSAGE value="added ReaderJsonInsect" />
     <MESSAGE value="added convertJsonToXml" />
-    <option name="LAST_COMMIT_MESSAGE" value="added convertJsonToXml" />
+    <MESSAGE value="added input" />
+    <MESSAGE value="added examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="added examples" />
   </component>
 </project>
