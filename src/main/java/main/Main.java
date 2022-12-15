@@ -1,5 +1,7 @@
 package main;
 
+import ru.levogordnikov.fileconverter.FileConverter;
+
 import java.util.Scanner;
 
 public class Main {
@@ -8,28 +10,18 @@ public class Main {
      * xml файл представляет собой иерархическую структура
      * из биологии начиная с класса заканчивая видом, но
      * только для класса насекомых. То есть по порядку класс,
-     * отряд, семейство, род, вид. Смотри пример ins.xml
-     *
-     * json файл представляет набор названий видов и куда они
+     * отряд, семейство, род, вид. См пример ins.xml
+     * <p>
+     * Json файл представляет набор названий видов и куда они
      * входят, то есть их класс, отряд, семейство, род, вид.
-     * Смотри пример ins.json
+     * См пример ins.json
      */
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Input file: ");
-        String inputFileName=sc.nextLine().replace("\\","/");
-        System.out.print("Output file: ");
-        String outputFileName=sc.nextLine().replace("\\","/");
-        try {
-            if(inputFileName.endsWith(".xml")&&outputFileName.endsWith(".json"))
-                xml_to_json.XmlToJsonInsect.convertXmlToJson(inputFileName,outputFileName);
-            else if(inputFileName.endsWith(".json")&&outputFileName.endsWith(".xml"))
-                json_to_xml.JsonToXmlInsect.convertJsonToXml(inputFileName,outputFileName);
-            else
-                System.out.println("Error: incorrect filenames");
-        }catch (Exception e){
-            System.out.println("Error: incorrect data in files");
-        }
-
+        final Scanner scanner = new Scanner(System.in);
+        System.out.print("Преобразуемый файл: ");
+        String inputFileName = scanner.nextLine().replace("\\", "/");
+        System.out.print("Новый файл, куда запишутся данные: ");
+        String outputFileName = scanner.nextLine().replace("\\", "/");
+        FileConverter.convert(inputFileName, outputFileName);
     }
 }
